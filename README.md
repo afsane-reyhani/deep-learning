@@ -10,3 +10,4 @@ I study deep learning at weekly seminars. I set up my study articles and their t
 ###  [A useful site for Deep learning](https://cs.stanford.edu/people/karpathy/convnetjs/)
 ###  See examples of convolution in images on this [site](http://aishack.in/tutorials/image-convolution-examples/)
 ###  Complete training for [optimization algorithms in Deep learning](http://ruder.io/optimizing-gradient-descent/)
+[towarddatascince](https://towardsdatascience.com/)
