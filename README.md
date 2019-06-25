@@ -11,3 +11,6 @@ I study deep learning at weekly seminars. I set up my study articles and their t
 ###  See examples of convolution in images on this [site](http://aishack.in/tutorials/image-convolution-examples/)
 ###  Complete training for [optimization algorithms in Deep learning](http://ruder.io/optimizing-gradient-descent/)
 [towarddatascince](https://towardsdatascience.com/)
+<br>
+## article: Wasserstein GAN <br> [article](https://arxiv.org/abs/1701.07875) <br>
+and [wassersteain dissertation](https://arxiv.org/pdf/1806.11382.pdf)
